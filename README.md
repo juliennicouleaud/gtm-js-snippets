@@ -1,6 +1,6 @@
 # Google Tag Manager (GTM) JS Snippets
 
-⚠️ I am not a developer... ⚠️
+⚠️ Warning : the code you're about to see might be horrendous, I am not a developer... ⚠️
 
 ## Table of contents
 
