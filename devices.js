@@ -15,6 +15,7 @@
    * 1. Device type
    * Returns true if the user is browsing with a mobile device (excluding tablets)
    * Source : https://www.analyticsmania.com/post/google-tag-manager-custom-variables/
+   * Done using USER AGENT SNIFFING ~ bad practice...
    * ------------------------------------------------------------------------
    */
 
