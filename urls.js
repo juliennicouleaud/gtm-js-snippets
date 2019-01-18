@@ -7,6 +7,7 @@
  * TABLE OF CONTENT
  * 
  * 1. Comparing hostnames
+ * 2. Get language code
  * 
  */
 
@@ -22,3 +23,18 @@
 function() {
     return ({{Click URL Hostname}} == {{Page URL Hostname}}) ? false : true;
 }
+
+
+/**
+   * ------------------------------------------------------------------------
+   * 1. Get language code from the URL of current page
+   * Create a regexp table, and set the input variable to {{Page Path}}
+   * Don't forgt to set the default variable.
+   * 
+   * Examples :
+   * /en(/.*)?
+   * /es(/.*)?
+   * /fr(/.*)?
+   * 
+   * ------------------------------------------------------------------------
+   */
